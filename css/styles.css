@@ -1,0 +1,29 @@
+body {
+	background-color:#ebe4d5;
+	color: #0f141e;
+	font-size: 20px;
+	font-weight: normal;
+	
+}
+.conteiner {
+	max-width: 800px;
+	margin: auto;
+	display:flexbox;
+	justify-content:space-around;
+}
+#avatar {
+	width:250px;
+	border-radius: 30px;
+}
+
+.sochal {
+	background-color:#d1a8dd;
+	padding: 15px 20px;
+	border-radius:10px;
+	margin-bottom: 20px;
+}
+
+.sochal a {
+	display:flexbox;
+	justify-content:space-around;
+}
