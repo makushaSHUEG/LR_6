@@ -6,7 +6,7 @@ body {
 	
 }
 .conteiner {
-	max-width: 800px;
+	max-width: 1000px;
 	margin: auto;
 	display:flexbox;
 	justify-content:space-around;
@@ -26,4 +26,7 @@ body {
 .sochal a {
 	display:flexbox;
 	justify-content:space-around;
+}
+button {
+	background-color:#d1a8dd;
 }
